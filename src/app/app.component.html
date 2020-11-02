@@ -1,8 +1,9 @@
 <div>
   <h1>The quotes</h1>
+  <hr>
   <ul>
       <li *ngFor='let quote of quotes'>
-        {{quote}}
+        {{quote.quote.author.publisher.completeDate.upvote.downvote}}
       </li>
   </ul>
 </div>

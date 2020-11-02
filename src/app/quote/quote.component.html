@@ -2,8 +2,8 @@
     <h1>The quotes</h1>
     <hr>
     <ul>
-      <li *ngFor='let quotes of quote'>
-        {{quotes.quote}}
+      <li *ngFor='let quote of quotes'>
+        {{quote.quote.author.publisher.completeDate.upvote.downvote}}
         <app-goal-detail [quote]='quote'></app-goal-detail>
       </li>
     </ul>
