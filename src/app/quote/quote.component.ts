@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class QuoteComponent implements OnInit {
   quote: Quote[] = [
-    new Quote(1, 'Programming is not about what you know; it is about what you can figure out.', 'Chris Pine', 'Ange', new Date(2020,11,7), 0, 0),
+    // new Quote(1, 'Programming is not about what you know; it is about what you can figure out.', 'Chris Pine', 'Ange', new Date(2020,11,7)),
   ];
   constructor() { }
 
