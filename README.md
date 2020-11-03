@@ -7,7 +7,7 @@ In life there are a lot of quotes that we hear from one another, there are those
 ### Author: Ange Uwimana
 
 ## About me
-[[ange123ux](https://github.com/ange123ux/imposing-pizza)]
+[[ange123ux](https://github.com/ange123ux/quote)]
 I consider myself as someone who is lucky because I grew up in a family where I am the first person to take programming classes. Currently, I am a student in Southern New Hampshire University and I am doing Communications in Business. Having a Software Developer degree will be an added advantage to my career, and I can't wait to make that big step in my life. 
 
 ## Setup/Installation Requirements
@@ -20,7 +20,7 @@ I consider myself as someone who is lucky because I grew up in a family where I 
 I used programing languages to code Imposing Pizza page such as HTML language, js language and CSS for styling.
 
   ## PROJECTS THAT I DESIGNED
-[Imposing Pizza](https://ange123ux.github.io/imposing-pizza/)
+[Imposing Pizza](https://ange123ux.github.io/quote/)
 
 MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy
