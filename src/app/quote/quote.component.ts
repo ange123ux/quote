@@ -7,9 +7,8 @@ import { Quote } from '../quote';
 })
 export class QuoteComponent implements OnInit {
   quotes: Quote[] = [
-    new Quote(1, 'I have a dream', '-Martin Luther King', 'Aimee', new Date(2020,5,2), 0, 0),
-    new Quote(2, 'Discipline is the bridge between quotes and accomplishment.', '-Jim Rohn', 'Paccy', new Date(2020,8,6), 0, 0),
-    new Quote(3, 'Whatever you are, be a good one.”', '-Abraham Lincoln ', 'Sierra', new Date(2019,4,6), 0, 0),
+    new Quote(1, 'Programming is not about what you know; it is about what you can figure out.', '-Mark Doe', 'Ange', new Date(2018,12,2), 0, 0),
+    new Quote(2, 'May the code be with you all!', '-Ruth Nikita', 'Ange', new Date(2020,2,12), 0, 0),
   ];
   toggleDetails(index){
     this.quotes[index].showDescription = !this.quotes[index].showDescription;
