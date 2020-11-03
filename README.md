@@ -1,8 +1,8 @@
-## IMPOSING PIZZA
+## QUOTE
 
 ### Description
-Imposing Pizza is coming as a solution to the health and weath of the customers. The best thing about it is that users are able to choose the type of the pizza they want, the size, as well as the toppings. Also, they are able to see the amount of money they are going to pay right after hitting order now button which is quite interesting.
-10/21st/2020.
+In life there are a lot of quotes that we hear from one another, there are those that we read, and there are those that we create by ourselves even if they are not known to a wider audience. When someone receives a beautiful quote from their beloved ones, they feel happy. It is for this reason that you can be able to come up with your own quote or write the one that already exists and the page is going to update itself!
+11/3rd/2020.
 
 ### Author: Ange Uwimana
 
