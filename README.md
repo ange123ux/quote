@@ -1,27 +1,44 @@
-# Quote
+## IMPOSING PIZZA
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+### Description
+Imposing Pizza is coming as a solution to the health and weath of the customers. The best thing about it is that users are able to choose the type of the pizza they want, the size, as well as the toppings. Also, they are able to see the amount of money they are going to pay right after hitting order now button which is quite interesting.
+10/21st/2020.
 
-## Development server
+### Author: Ange Uwimana
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## About me
+[[ange123ux](https://github.com/ange123ux/imposing-pizza)]
+I consider myself as someone who is lucky because I grew up in a family where I am the first person to take programming classes. Currently, I am a student in Southern New Hampshire University and I am doing Communications in Business. Having a Software Developer degree will be an added advantage to my career, and I can't wait to make that big step in my life. 
 
-## Code scaffolding
+## Setup/Installation Requirements
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* installation of ubuntu
+* instaling git
+* signing up to github 
+* start using it
+## Technologies Used
+I used programing languages to code Imposing Pizza page such as HTML language, js language and CSS for styling.
 
-## Build
+  ## PROJECTS THAT I DESIGNED
+[Imposing Pizza](https://ange123ux.github.io/imposing-pizza/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+MIT License
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## Running unit tests
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+.DS_Store
+Copyright (c) 2019 John Mutavi
