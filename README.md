@@ -20,7 +20,7 @@ I consider myself as someone who is lucky because I grew up in a family where I 
 I used programing languages to code Imposing Pizza page such as HTML language, js language and CSS for styling.
 
   ## PROJECTS THAT I DESIGNED
-[Imposing Pizza](https://ange123ux.github.io/quote/)
+[quote](https://ange123ux.github.io/quote/)
 
 MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy
