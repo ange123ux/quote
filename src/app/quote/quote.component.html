@@ -3,8 +3,8 @@
     <hr>
     <ul>
       <li *ngFor='let quote of quotes'>
-        {{quote.quote.author.publisher.completeDate.upvote.downvote}}
-        <app-goal-detail [quote]='quote'></app-goal-detail>
+        {{quote.quote}}
+        <app-goal-detail *ngIf='quote.showDescription' [quote]='quote' (isComplete)='deleteQuote($event,i)'></app-goal-detail>
       </li>
     </ul>
   </div>
